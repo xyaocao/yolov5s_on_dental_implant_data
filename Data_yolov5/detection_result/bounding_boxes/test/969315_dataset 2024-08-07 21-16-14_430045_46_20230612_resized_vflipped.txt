@@ -1,0 +1,2 @@
+Class (0:crown, 1:screw): 0, Bounding Box (x1,y1), (x2,y2): (99, 214), (191, 335)
+Class (0:crown, 1:screw): 1, Bounding Box (x1,y1), (x2,y2): (125, 75), (165, 217)

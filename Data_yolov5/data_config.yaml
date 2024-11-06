@@ -1,0 +1,8 @@
+colors:
+- [245, 166, 35]
+- [74, 144, 226]
+- [144, 19, 254]
+names: [crown, screw, bone_level]
+nc: 3
+train: ../data/train/images
+val: ../data/test/images
