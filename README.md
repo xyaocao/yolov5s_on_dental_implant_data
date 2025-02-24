@@ -14,7 +14,7 @@ Details in the file yolov5s_training.ipynb to show the steps to train Yolov5s mo
 This section is under the detection_result folder.
 Using the trained model in the detect_bounding box.ipynb file to detect on the test and train data seperately, generated two folders under inference path. The test_output and train_output folder include images with bounding box and .txt file which includes bouding box information in yolo format.
 
-I changeed the yolo format into pixel format and saved it under the bounding_boxes folder. 
+I changed the yolo format into pixel format and saved it under the bounding_boxes folder. 
 
 If you only want to get the images with bounding box infomation, then check the detection_result/bounding_boxes folder, it has everything you need, coordinates for screw/crown, also images show you the bounding box.
 
