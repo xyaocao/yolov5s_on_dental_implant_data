@@ -16,6 +16,6 @@ Using the trained model in the detect_bounding box.ipynb file to detect on the t
 
 I changeed the yolo format into pixel format and saved it under the bounding_boxes folder. 
 
-## If you only want to get the images with bounding box infomation, then check the detection_result/bounding_boxes folder, it has everything you need, coordinates for screw/crown, also images show you the bounding box.
+If you only want to get the images with bounding box infomation, then check the detection_result/bounding_boxes folder, it has everything you need, coordinates for screw/crown, also images show you the bounding box.
 
 
